@@ -8,3 +8,4 @@ function evenChars(string) {
   }
   else{return answerArray}
 }
+//hi
