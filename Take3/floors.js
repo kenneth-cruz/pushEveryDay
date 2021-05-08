@@ -12,3 +12,4 @@ function getRealFloor(n) {
     else{
       return n -2
     }
+}
